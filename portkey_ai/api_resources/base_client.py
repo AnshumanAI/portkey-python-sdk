@@ -1,3 +1,5 @@
+"""This module defines the APIClient class, which is 
+a wrapper around the httpx.Client class that handles requests to the Portkey AI API."""
 from __future__ import annotations
 import asyncio
 
